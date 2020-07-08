@@ -1,0 +1,40 @@
+#wrap {
+    margin-top: 20px;
+}
+#header {
+    text-align: center;
+    margin: 10px;
+}
+
+button {
+    text-align: center;
+}
+.form-group{
+margin: 0 auto;
+text-align: center;
+}
+
+img {
+    width: 60px;
+    height: 30x;
+}
+
+#result {
+    margin: 0 30px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+}
+
+
+
